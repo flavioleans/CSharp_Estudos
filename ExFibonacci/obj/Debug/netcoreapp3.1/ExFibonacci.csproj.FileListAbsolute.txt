@@ -1,0 +1,13 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\bin\Debug\netcoreapp3.1\ExFibonacci.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\bin\Debug\netcoreapp3.1\ExFibonacci.deps.json
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\bin\Debug\netcoreapp3.1\ExFibonacci.runtimeconfig.json
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\bin\Debug\netcoreapp3.1\ExFibonacci.runtimeconfig.dev.json
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\bin\Debug\netcoreapp3.1\ExFibonacci.dll
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\bin\Debug\netcoreapp3.1\ExFibonacci.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\obj\Debug\netcoreapp3.1\ExFibonacci.csprojAssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\obj\Debug\netcoreapp3.1\ExFibonacci.AssemblyInfoInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\obj\Debug\netcoreapp3.1\ExFibonacci.AssemblyInfo.cs
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\obj\Debug\netcoreapp3.1\ExFibonacci.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\obj\Debug\netcoreapp3.1\ExFibonacci.dll
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\obj\Debug\netcoreapp3.1\ExFibonacci.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\ExFibonacci\obj\Debug\netcoreapp3.1\ExFibonacci.genruntimeconfig.cache

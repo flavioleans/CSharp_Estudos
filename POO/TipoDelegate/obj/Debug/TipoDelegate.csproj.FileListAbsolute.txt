@@ -1,0 +1,7 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TipoDelegate\bin\Debug\TipoDelegate.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TipoDelegate\bin\Debug\TipoDelegate.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TipoDelegate\obj\Debug\TipoDelegate.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TipoDelegate\obj\Debug\TipoDelegate.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache

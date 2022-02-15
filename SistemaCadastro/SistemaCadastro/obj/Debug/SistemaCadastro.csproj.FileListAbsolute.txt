@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csprojAssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.pdb

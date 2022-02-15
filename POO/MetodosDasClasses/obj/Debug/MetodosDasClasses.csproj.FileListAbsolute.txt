@@ -1,0 +1,7 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csprojAssemblyReference.cache

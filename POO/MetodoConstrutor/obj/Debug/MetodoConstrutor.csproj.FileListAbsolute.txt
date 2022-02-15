@@ -1,0 +1,7 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.AssemblyReference.cache

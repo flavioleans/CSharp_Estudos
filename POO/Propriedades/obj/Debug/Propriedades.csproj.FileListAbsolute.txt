@@ -1,0 +1,6 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Propriedades\bin\Debug\Propriedades.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Propriedades\bin\Debug\Propriedades.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Propriedades\bin\Debug\Propriedades.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Propriedades\obj\Debug\Propriedades.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Propriedades\obj\Debug\Propriedades.pdb

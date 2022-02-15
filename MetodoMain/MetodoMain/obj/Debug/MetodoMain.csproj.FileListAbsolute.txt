@@ -1,0 +1,6 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\MetodoMain\MetodoMain\bin\Debug\MetodoMain.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\MetodoMain\MetodoMain\obj\Debug\MetodoMain.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\MetodoMain\MetodoMain\obj\Debug\MetodoMain.pdb

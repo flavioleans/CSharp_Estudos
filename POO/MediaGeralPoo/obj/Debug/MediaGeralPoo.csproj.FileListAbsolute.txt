@@ -1,0 +1,7 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MediaGeralPoo\bin\Debug\MediaGeralPoo.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MediaGeralPoo\bin\Debug\MediaGeralPoo.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MediaGeralPoo\bin\Debug\MediaGeralPoo.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MediaGeralPoo\obj\Debug\MediaGeralPoo.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MediaGeralPoo\obj\Debug\MediaGeralPoo.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MediaGeralPoo\obj\Debug\MediaGeralPoo.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\MediaGeralPoo\obj\Debug\MediaGeralPoo.csproj.AssemblyReference.cache

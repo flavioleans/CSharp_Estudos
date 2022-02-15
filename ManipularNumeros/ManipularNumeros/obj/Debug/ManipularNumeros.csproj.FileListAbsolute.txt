@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.Form1.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.Properties.Resources.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.GenerateResource.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.AssemblyReference.cache

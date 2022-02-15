@@ -1,0 +1,7 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Heranca\bin\Debug\Heranca.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Heranca\bin\Debug\Heranca.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Heranca\bin\Debug\Heranca.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Heranca\obj\Debug\Heranca.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Heranca\obj\Debug\Heranca.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache

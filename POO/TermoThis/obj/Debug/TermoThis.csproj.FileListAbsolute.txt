@@ -1,0 +1,6 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TermoThis\bin\Debug\TermoThis.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TermoThis\bin\Debug\TermoThis.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TermoThis\bin\Debug\TermoThis.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TermoThis\obj\Debug\TermoThis.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TermoThis\obj\Debug\TermoThis.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\TermoThis\obj\Debug\TermoThis.pdb

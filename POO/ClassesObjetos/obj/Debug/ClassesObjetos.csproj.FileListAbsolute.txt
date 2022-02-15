@@ -1,0 +1,7 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\ClassesObjetos\obj\Debug\ClassesObjetos.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.AssemblyReference.cache

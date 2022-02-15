@@ -1,0 +1,7 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Encapsular\bin\Debug\Encapsular.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Encapsular\bin\Debug\Encapsular.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Encapsular\bin\Debug\Encapsular.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Encapsular\obj\Debug\Encapsular.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Encapsular\obj\Debug\Encapsular.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache

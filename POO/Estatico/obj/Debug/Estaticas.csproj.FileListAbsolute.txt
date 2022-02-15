@@ -1,0 +1,7 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Estatico\bin\Debug\Estatico.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Estatico\bin\Debug\Estatico.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Estatico\bin\Debug\Estatico.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Estatico\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Estatico\obj\Debug\Estatico.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Estatico\obj\Debug\Estatico.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\POO\Estatico\obj\Debug\Estaticas.csprojAssemblyReference.cache

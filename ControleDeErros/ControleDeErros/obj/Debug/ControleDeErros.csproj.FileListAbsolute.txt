@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\ControleDeErros\ControleDeErros\bin\Debug\ControleDeErros.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\ControleDeErros\ControleDeErros\bin\Debug\ControleDeErros.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\ControleDeErros\ControleDeErros\bin\Debug\ControleDeErros.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.csprojAssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.Form1.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.Properties.Resources.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.csproj.GenerateResource.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\ControleDeErros\ControleDeErros\obj\Debug\ControleDeErros.pdb

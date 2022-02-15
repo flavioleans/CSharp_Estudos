@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipulacaoDeStrings\ManipularString\bin\Debug\ManipularString.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipulacaoDeStrings\ManipularString\bin\Debug\ManipularString.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipulacaoDeStrings\ManipularString\bin\Debug\ManipularString.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipulacaoDeStrings\ManipularString\obj\Debug\Contains-ToString.csprojAssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipulacaoDeStrings\ManipularString\obj\Debug\ManipularString.Form1.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipulacaoDeStrings\ManipularString\obj\Debug\ManipularString.Properties.Resources.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipulacaoDeStrings\ManipularString\obj\Debug\Contains-ToString.csproj.GenerateResource.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipulacaoDeStrings\ManipularString\obj\Debug\Contains-ToString.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipulacaoDeStrings\ManipularString\obj\Debug\ManipularString.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\ManipulacaoDeStrings\ManipularString\obj\Debug\ManipularString.pdb
