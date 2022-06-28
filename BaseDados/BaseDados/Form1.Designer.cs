@@ -41,7 +41,7 @@ namespace BaseDados
             this.btnConectar = new System.Windows.Forms.Button();
             this.btnCriarTabela = new System.Windows.Forms.Button();
             this.btnInserir = new System.Windows.Forms.Button();
-            this.txtProcurar = new System.Windows.Forms.Button();
+            this.btnProcurar = new System.Windows.Forms.Button();
             this.btnExcluir = new System.Windows.Forms.Button();
             this.btnEditar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgwLista)).BeginInit();
@@ -132,6 +132,7 @@ namespace BaseDados
             this.btnConectar.TabIndex = 6;
             this.btnConectar.Text = "Conectar";
             this.btnConectar.UseVisualStyleBackColor = true;
+            this.btnConectar.Click += new System.EventHandler(this.btnConectar_Click);
             // 
             // btnCriarTabela
             // 
@@ -141,6 +142,7 @@ namespace BaseDados
             this.btnCriarTabela.TabIndex = 7;
             this.btnCriarTabela.Text = "Criar Tabela";
             this.btnCriarTabela.UseVisualStyleBackColor = true;
+            this.btnCriarTabela.Click += new System.EventHandler(this.btnCriarTabela_Click);
             // 
             // btnInserir
             // 
@@ -150,15 +152,17 @@ namespace BaseDados
             this.btnInserir.TabIndex = 8;
             this.btnInserir.Text = "Inserir";
             this.btnInserir.UseVisualStyleBackColor = true;
+            this.btnInserir.Click += new System.EventHandler(this.btnInserir_Click);
             // 
-            // txtProcurar
+            // btnProcurar
             // 
-            this.txtProcurar.Location = new System.Drawing.Point(469, 315);
-            this.txtProcurar.Name = "txtProcurar";
-            this.txtProcurar.Size = new System.Drawing.Size(102, 40);
-            this.txtProcurar.TabIndex = 9;
-            this.txtProcurar.Text = "Procurar";
-            this.txtProcurar.UseVisualStyleBackColor = true;
+            this.btnProcurar.Location = new System.Drawing.Point(469, 315);
+            this.btnProcurar.Name = "btnProcurar";
+            this.btnProcurar.Size = new System.Drawing.Size(102, 40);
+            this.btnProcurar.TabIndex = 9;
+            this.btnProcurar.Text = "Procurar";
+            this.btnProcurar.UseVisualStyleBackColor = true;
+            this.btnProcurar.Click += new System.EventHandler(this.btnProcurar_Click);
             // 
             // btnExcluir
             // 
@@ -168,6 +172,7 @@ namespace BaseDados
             this.btnExcluir.TabIndex = 10;
             this.btnExcluir.Text = "Excluir";
             this.btnExcluir.UseVisualStyleBackColor = true;
+            this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
             // 
             // btnEditar
             // 
@@ -177,6 +182,7 @@ namespace BaseDados
             this.btnEditar.TabIndex = 11;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // Form1
             // 
@@ -185,7 +191,7 @@ namespace BaseDados
             this.ClientSize = new System.Drawing.Size(583, 495);
             this.Controls.Add(this.btnEditar);
             this.Controls.Add(this.btnExcluir);
-            this.Controls.Add(this.txtProcurar);
+            this.Controls.Add(this.btnProcurar);
             this.Controls.Add(this.btnInserir);
             this.Controls.Add(this.btnCriarTabela);
             this.Controls.Add(this.btnConectar);
@@ -217,7 +223,7 @@ namespace BaseDados
         private System.Windows.Forms.Button btnConectar;
         private System.Windows.Forms.Button btnCriarTabela;
         private System.Windows.Forms.Button btnInserir;
-        private System.Windows.Forms.Button txtProcurar;
+        private System.Windows.Forms.Button btnProcurar;
         private System.Windows.Forms.Button btnExcluir;
         private System.Windows.Forms.Button btnEditar;
     }
