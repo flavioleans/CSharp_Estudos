@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4D3EB50B-6FAA-4CB8-AEA0-44C0AD84B738}</ProjectGuid>
+    <ProjectGuid>{94087A63-A9F5-4165-8DF5-BF0ACB69F97D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>CriptoFile</RootNamespace>
     <AssemblyName>CriptoFile</AssemblyName>

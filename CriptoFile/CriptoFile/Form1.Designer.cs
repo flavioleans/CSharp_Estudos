@@ -1,17 +1,16 @@
-﻿
-namespace CriptoFile
+﻿namespace CriptoFile
 {
     partial class Form1
     {
         /// <summary>
-        /// Variável de designer necessária.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Limpar os recursos que estão sendo usados.
+        /// Clean up any resources being used.
         /// </summary>
-        /// <param name="disposing">true se for necessário descartar os recursos gerenciados; caso contrário, false.</param>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -21,123 +20,133 @@ namespace CriptoFile
             base.Dispose(disposing);
         }
 
-        #region Código gerado pelo Windows Form Designer
+        #region Windows Form Designer generated code
 
         /// <summary>
-        /// Método necessário para suporte ao Designer - não modifique 
-        /// o conteúdo deste método com o editor de código.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
+            this.buttonEncryptFile = new System.Windows.Forms.Button();
+            this.buttonDecryptFile = new System.Windows.Forms.Button();
+            this.buttonCreateAsmKeys = new System.Windows.Forms.Button();
+            this.buttonExportPublicKey = new System.Windows.Forms.Button();
+            this.buttonImportPublicKey = new System.Windows.Forms.Button();
+            this.buttonGetPrivateKey = new System.Windows.Forms.Button();
             this.txtKey = new System.Windows.Forms.TextBox();
-            this.btnEncryptFile = new System.Windows.Forms.Button();
-            this.btnDecryptFile = new System.Windows.Forms.Button();
-            this.btnCreateAsmKey = new System.Windows.Forms.Button();
-            this.btnGetPrivateKey = new System.Windows.Forms.Button();
-            this.btnImportPublicKey = new System.Windows.Forms.Button();
-            this.btnExportPublicKey = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 9);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(16, 16);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(696, 126);
+            this.label1.Size = new System.Drawing.Size(827, 151);
             this.label1.TabIndex = 0;
             this.label1.Text = "Chave não definida";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // buttonEncryptFile
+            // 
+            this.buttonEncryptFile.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonEncryptFile.Location = new System.Drawing.Point(16, 246);
+            this.buttonEncryptFile.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonEncryptFile.Name = "buttonEncryptFile";
+            this.buttonEncryptFile.Size = new System.Drawing.Size(265, 92);
+            this.buttonEncryptFile.TabIndex = 1;
+            this.buttonEncryptFile.Text = "Criptografar arquivo";
+            this.buttonEncryptFile.UseVisualStyleBackColor = true;
+            this.buttonEncryptFile.Click += new System.EventHandler(this.buttonEncryptFile_Click);
+            // 
+            // buttonDecryptFile
+            // 
+            this.buttonDecryptFile.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonDecryptFile.Location = new System.Drawing.Point(289, 246);
+            this.buttonDecryptFile.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonDecryptFile.Name = "buttonDecryptFile";
+            this.buttonDecryptFile.Size = new System.Drawing.Size(268, 92);
+            this.buttonDecryptFile.TabIndex = 2;
+            this.buttonDecryptFile.Text = "Descriptografar arquivo";
+            this.buttonDecryptFile.UseVisualStyleBackColor = true;
+            this.buttonDecryptFile.Click += new System.EventHandler(this.buttonDecryptFile_Click);
+            // 
+            // buttonCreateAsmKeys
+            // 
+            this.buttonCreateAsmKeys.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonCreateAsmKeys.Location = new System.Drawing.Point(565, 246);
+            this.buttonCreateAsmKeys.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonCreateAsmKeys.Name = "buttonCreateAsmKeys";
+            this.buttonCreateAsmKeys.Size = new System.Drawing.Size(278, 92);
+            this.buttonCreateAsmKeys.TabIndex = 3;
+            this.buttonCreateAsmKeys.Text = "Criar chaves";
+            this.buttonCreateAsmKeys.UseVisualStyleBackColor = true;
+            this.buttonCreateAsmKeys.Click += new System.EventHandler(this.buttonCreateAsmKeys_Click);
+            // 
+            // buttonExportPublicKey
+            // 
+            this.buttonExportPublicKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonExportPublicKey.Location = new System.Drawing.Point(16, 346);
+            this.buttonExportPublicKey.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonExportPublicKey.Name = "buttonExportPublicKey";
+            this.buttonExportPublicKey.Size = new System.Drawing.Size(265, 92);
+            this.buttonExportPublicKey.TabIndex = 4;
+            this.buttonExportPublicKey.Text = "Exportar chave pública";
+            this.buttonExportPublicKey.UseVisualStyleBackColor = true;
+            this.buttonExportPublicKey.Click += new System.EventHandler(this.buttonExportPublicKey_Click);
+            // 
+            // buttonImportPublicKey
+            // 
+            this.buttonImportPublicKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonImportPublicKey.Location = new System.Drawing.Point(289, 346);
+            this.buttonImportPublicKey.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonImportPublicKey.Name = "buttonImportPublicKey";
+            this.buttonImportPublicKey.Size = new System.Drawing.Size(268, 92);
+            this.buttonImportPublicKey.TabIndex = 5;
+            this.buttonImportPublicKey.Text = "Importar chave pública";
+            this.buttonImportPublicKey.UseVisualStyleBackColor = true;
+            this.buttonImportPublicKey.Click += new System.EventHandler(this.buttonImportPublicKey_Click);
+            // 
+            // buttonGetPrivateKey
+            // 
+            this.buttonGetPrivateKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonGetPrivateKey.Location = new System.Drawing.Point(565, 346);
+            this.buttonGetPrivateKey.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonGetPrivateKey.Name = "buttonGetPrivateKey";
+            this.buttonGetPrivateKey.Size = new System.Drawing.Size(278, 92);
+            this.buttonGetPrivateKey.TabIndex = 6;
+            this.buttonGetPrivateKey.Text = "Obter chave privada";
+            this.buttonGetPrivateKey.UseVisualStyleBackColor = true;
+            this.buttonGetPrivateKey.Click += new System.EventHandler(this.buttonGetPrivateKey_Click);
+            // 
             // txtKey
             // 
-            this.txtKey.Location = new System.Drawing.Point(197, 153);
+            this.txtKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtKey.Location = new System.Drawing.Point(259, 181);
+            this.txtKey.Margin = new System.Windows.Forms.Padding(4);
             this.txtKey.Name = "txtKey";
-            this.txtKey.Size = new System.Drawing.Size(302, 20);
-            this.txtKey.TabIndex = 1;
-            // 
-            // btnEncryptFile
-            // 
-            this.btnEncryptFile.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEncryptFile.Location = new System.Drawing.Point(53, 208);
-            this.btnEncryptFile.Name = "btnEncryptFile";
-            this.btnEncryptFile.Size = new System.Drawing.Size(198, 67);
-            this.btnEncryptFile.TabIndex = 2;
-            this.btnEncryptFile.Text = "Criptografar arquivo";
-            this.btnEncryptFile.UseVisualStyleBackColor = true;
-            this.btnEncryptFile.Click += new System.EventHandler(this.btnEncryptFile_Click);
-            // 
-            // btnDecryptFile
-            // 
-            this.btnDecryptFile.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDecryptFile.Location = new System.Drawing.Point(257, 208);
-            this.btnDecryptFile.Name = "btnDecryptFile";
-            this.btnDecryptFile.Size = new System.Drawing.Size(198, 67);
-            this.btnDecryptFile.TabIndex = 3;
-            this.btnDecryptFile.Text = "Descriptografar arquivo";
-            this.btnDecryptFile.UseVisualStyleBackColor = true;
-            this.btnDecryptFile.Click += new System.EventHandler(this.btnDecryptFile_Click);
-            // 
-            // btnCreateAsmKey
-            // 
-            this.btnCreateAsmKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCreateAsmKey.Location = new System.Drawing.Point(461, 208);
-            this.btnCreateAsmKey.Name = "btnCreateAsmKey";
-            this.btnCreateAsmKey.Size = new System.Drawing.Size(198, 67);
-            this.btnCreateAsmKey.TabIndex = 4;
-            this.btnCreateAsmKey.Text = "Criar chaves";
-            this.btnCreateAsmKey.UseVisualStyleBackColor = true;
-            this.btnCreateAsmKey.Click += new System.EventHandler(this.btnCreateAsmKey_Click);
-            // 
-            // btnGetPrivateKey
-            // 
-            this.btnGetPrivateKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGetPrivateKey.Location = new System.Drawing.Point(461, 281);
-            this.btnGetPrivateKey.Name = "btnGetPrivateKey";
-            this.btnGetPrivateKey.Size = new System.Drawing.Size(198, 67);
-            this.btnGetPrivateKey.TabIndex = 7;
-            this.btnGetPrivateKey.Text = "Obter chave privada";
-            this.btnGetPrivateKey.UseVisualStyleBackColor = true;
-            this.btnGetPrivateKey.Click += new System.EventHandler(this.btnGetPrivateKey_Click);
-            // 
-            // btnImportPublicKey
-            // 
-            this.btnImportPublicKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnImportPublicKey.Location = new System.Drawing.Point(257, 281);
-            this.btnImportPublicKey.Name = "btnImportPublicKey";
-            this.btnImportPublicKey.Size = new System.Drawing.Size(198, 67);
-            this.btnImportPublicKey.TabIndex = 6;
-            this.btnImportPublicKey.Text = "Importar chave publica";
-            this.btnImportPublicKey.UseVisualStyleBackColor = true;
-            this.btnImportPublicKey.Click += new System.EventHandler(this.btnImportPublicKey_Click);
-            // 
-            // btnExportPublicKey
-            // 
-            this.btnExportPublicKey.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExportPublicKey.Location = new System.Drawing.Point(53, 281);
-            this.btnExportPublicKey.Name = "btnExportPublicKey";
-            this.btnExportPublicKey.Size = new System.Drawing.Size(198, 67);
-            this.btnExportPublicKey.TabIndex = 5;
-            this.btnExportPublicKey.Text = "Exportar chave publica";
-            this.btnExportPublicKey.UseVisualStyleBackColor = true;
-            this.btnExportPublicKey.Click += new System.EventHandler(this.btnExportPublicKey_Click);
+            this.txtKey.Size = new System.Drawing.Size(332, 41);
+            this.txtKey.TabIndex = 7;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(720, 360);
-            this.Controls.Add(this.btnGetPrivateKey);
-            this.Controls.Add(this.btnImportPublicKey);
-            this.Controls.Add(this.btnExportPublicKey);
-            this.Controls.Add(this.btnCreateAsmKey);
-            this.Controls.Add(this.btnDecryptFile);
-            this.Controls.Add(this.btnEncryptFile);
+            this.ClientSize = new System.Drawing.Size(862, 453);
             this.Controls.Add(this.txtKey);
+            this.Controls.Add(this.buttonGetPrivateKey);
+            this.Controls.Add(this.buttonImportPublicKey);
+            this.Controls.Add(this.buttonExportPublicKey);
+            this.Controls.Add(this.buttonCreateAsmKeys);
+            this.Controls.Add(this.buttonDecryptFile);
+            this.Controls.Add(this.buttonEncryptFile);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -146,13 +155,13 @@ namespace CriptoFile
         #endregion
 
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button buttonEncryptFile;
+        private System.Windows.Forms.Button buttonDecryptFile;
+        private System.Windows.Forms.Button buttonCreateAsmKeys;
+        private System.Windows.Forms.Button buttonExportPublicKey;
+        private System.Windows.Forms.Button buttonImportPublicKey;
+        private System.Windows.Forms.Button buttonGetPrivateKey;
         private System.Windows.Forms.TextBox txtKey;
-        private System.Windows.Forms.Button btnEncryptFile;
-        private System.Windows.Forms.Button btnDecryptFile;
-        private System.Windows.Forms.Button btnCreateAsmKey;
-        private System.Windows.Forms.Button btnGetPrivateKey;
-        private System.Windows.Forms.Button btnImportPublicKey;
-        private System.Windows.Forms.Button btnExportPublicKey;
     }
 }
 
