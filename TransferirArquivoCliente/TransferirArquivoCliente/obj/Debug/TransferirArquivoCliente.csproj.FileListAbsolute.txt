@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoCliente\TransferirArquivoCliente\bin\Debug\TransferirArquivoCliente.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoCliente\TransferirArquivoCliente\bin\Debug\TransferirArquivoCliente.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoCliente\TransferirArquivoCliente\bin\Debug\TransferirArquivoCliente.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.csproj.AssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.Form1.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.Properties.Resources.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.csproj.GenerateResource.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.pdb

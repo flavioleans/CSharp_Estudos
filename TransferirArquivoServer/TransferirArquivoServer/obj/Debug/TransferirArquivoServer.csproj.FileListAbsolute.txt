@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoServer\TransferirArquivoServer\bin\Debug\TransferirArquivoServer.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoServer\TransferirArquivoServer\bin\Debug\TransferirArquivoServer.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoServer\TransferirArquivoServer\bin\Debug\TransferirArquivoServer.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.csproj.AssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.Form1.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.Properties.Resources.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.csproj.GenerateResource.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.pdb

@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\ChatCliente\ChatCliente\bin\Debug\ChatCliente.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\ChatCliente\ChatCliente\bin\Debug\ChatCliente.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\ChatCliente\ChatCliente\bin\Debug\ChatCliente.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\ChatCliente\ChatCliente\obj\Debug\ChatCliente.csproj.AssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ChatCliente\ChatCliente\obj\Debug\ChatCliente.Form1.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\ChatCliente\ChatCliente\obj\Debug\ChatCliente.Properties.Resources.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\ChatCliente\ChatCliente\obj\Debug\ChatCliente.csproj.GenerateResource.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ChatCliente\ChatCliente\obj\Debug\ChatCliente.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\ChatCliente\ChatCliente\obj\Debug\ChatCliente.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\ChatCliente\ChatCliente\obj\Debug\ChatCliente.pdb

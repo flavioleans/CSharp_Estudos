@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\GDIPlus\GDIPlus\bin\Debug\GDIPlus.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.AssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\GDIPlus\GDIPlus\obj\Debug\GDIPlus.Form1.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\GDIPlus\GDIPlus\obj\Debug\GDIPlus.Properties.Resources.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.GenerateResource.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\GDIPlus\GDIPlus\obj\Debug\GDIPlus.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\GDIPlus\GDIPlus\obj\Debug\GDIPlus.pdb

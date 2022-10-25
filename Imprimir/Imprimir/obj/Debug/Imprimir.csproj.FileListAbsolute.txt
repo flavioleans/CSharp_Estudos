@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\Imprimir\Imprimir\bin\Debug\Imprimir.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\Imprimir\Imprimir\bin\Debug\Imprimir.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\Imprimir\Imprimir\bin\Debug\Imprimir.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\Imprimir\Imprimir\obj\Debug\Imprimir.csproj.AssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\Imprimir\Imprimir\obj\Debug\Imprimir.Form1.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\Imprimir\Imprimir\obj\Debug\Imprimir.Properties.Resources.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\Imprimir\Imprimir\obj\Debug\Imprimir.csproj.GenerateResource.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\Imprimir\Imprimir\obj\Debug\Imprimir.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\Imprimir\Imprimir\obj\Debug\Imprimir.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\Imprimir\Imprimir\obj\Debug\Imprimir.pdb

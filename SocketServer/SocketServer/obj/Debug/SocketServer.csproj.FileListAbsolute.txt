@@ -1,0 +1,7 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\SocketServer\SocketServer\obj\Debug\SocketServer.pdb

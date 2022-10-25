@@ -183,10 +183,10 @@ namespace LINQ_1
             var res = from estado in lista_estados 
                       group estado by estado.Value;
             
-            foreach (var grupo in res)
+            foreach (var lstPais in res)
             {
-                lista.Items.Add(grupo.Key);
-                foreach (var estado in grupo)
+                lista.Items.Add(lstPais.Key);
+                foreach (var estado in lstPais)
                 {
                     lista.Items.Add("     " + estado.Key);
                 }
@@ -226,7 +226,7 @@ namespace LINQ_1
             // Tambem aplicados nas consultas.
             //long contagem = lista_numeros.LongCount();
 
-            // Tambem aplicado nas consUltas LINK.
+            // Tambem aplicado nas consultas LINK.
             string maiorNome = lista_nomes.Aggregate((maior, proximo) =>
             {
                 if (maior.Length > proximo.Length)
@@ -265,11 +265,11 @@ namespace LINQ_1
         {
             lista.Items.Clear();
             //var cons1 = from nome in lista_nomes select nome; // Comum
-            //var cons1L = lista_nomes.Select(nome => nome);
+            //var cons1L = lista_nomes.Select(nome => nome); //Lambda
             //lista.Items.AddRange(cons1.ToArray());
 
             //var cons2 = from nome in lista_nomes where nome.StartsWith("G") select nome;
-            //var cons2L = lista_nomes.Where((nome) => nome.StartsWith("G"));
+            //var cons2L = lista_nomes.Where(nome => nome.StartsWith("G"));
             //lista.Items.AddRange(cons2L.ToArray());
 
             //var cons3 = from nome in lista_nomes orderby nome select nome;
