@@ -1,0 +1,16 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\bin\Debug\net5.0\VolumeCilindro.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\bin\Debug\net5.0\VolumeCilindro.deps.json
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\bin\Debug\net5.0\VolumeCilindro.runtimeconfig.json
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\bin\Debug\net5.0\VolumeCilindro.runtimeconfig.dev.json
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\bin\Debug\net5.0\VolumeCilindro.dll
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\bin\Debug\net5.0\ref\VolumeCilindro.dll
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\bin\Debug\net5.0\VolumeCilindro.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\obj\Debug\net5.0\VolumeCilindro.csproj.AssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\obj\Debug\net5.0\VolumeCilindro.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\obj\Debug\net5.0\VolumeCilindro.AssemblyInfoInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\obj\Debug\net5.0\VolumeCilindro.AssemblyInfo.cs
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\obj\Debug\net5.0\VolumeCilindro.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\obj\Debug\net5.0\VolumeCilindro.dll
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\obj\Debug\net5.0\ref\VolumeCilindro.dll
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\obj\Debug\net5.0\VolumeCilindro.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\VolumeCilindro\VolumeCilindro\obj\Debug\net5.0\VolumeCilindro.genruntimeconfig.cache

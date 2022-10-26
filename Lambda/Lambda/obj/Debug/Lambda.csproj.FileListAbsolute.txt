@@ -1,0 +1,10 @@
+D:\ProjetosC#\EstudosC#\C#Udemy\Lambda\Lambda\bin\Debug\Lambda.exe.config
+D:\ProjetosC#\EstudosC#\C#Udemy\Lambda\Lambda\bin\Debug\Lambda.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\Lambda\Lambda\bin\Debug\Lambda.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\Lambda\Lambda\obj\Debug\Lambda.Form1.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\Lambda\Lambda\obj\Debug\Lambda.Properties.Resources.resources
+D:\ProjetosC#\EstudosC#\C#Udemy\Lambda\Lambda\obj\Debug\Lambda.csproj.GenerateResource.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\EstudosC#\C#Udemy\Lambda\Lambda\obj\Debug\Lambda.exe
+D:\ProjetosC#\EstudosC#\C#Udemy\Lambda\Lambda\obj\Debug\Lambda.pdb
