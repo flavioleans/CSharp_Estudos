@@ -1,10 +1,10 @@
 D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\bin\Debug\Part010.exe.config
 D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\bin\Debug\Part010.exe
 D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\bin\Debug\Part010.pdb
-D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\obj\Debug\Part010.csprojAssemblyReference.cache
 D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\obj\Debug\Part010.Form1.resources
 D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\obj\Debug\Part010.Properties.Resources.resources
 D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\obj\Debug\Part010.csproj.GenerateResource.cache
 D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\obj\Debug\Part010.csproj.CoreCompileInputs.cache
 D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\obj\Debug\Part010.exe
 D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\obj\Debug\Part010.pdb
+D:\ProjetosC#\EstudosC#\C#Udemy\ControlesForm\Part010\obj\Debug\Part010.csproj.AssemblyReference.cache

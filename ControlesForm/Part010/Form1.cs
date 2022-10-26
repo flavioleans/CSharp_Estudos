@@ -20,7 +20,7 @@ namespace Part010
             item1.SubItems.Add("1195988-8156");
             item1.SubItems.Add("leans.flavio@gmail.com");
 
-            ListViewItem item2 = new ListViewItem("Flávio");
+            ListViewItem item2 = new ListViewItem("Leandro");
             item2.SubItems.Add("118156-95988");
             item2.SubItems.Add("flavioleans@gmail.com");
 
@@ -28,6 +28,7 @@ namespace Part010
             item3.SubItems.Add("1195988-6518");
             item3.SubItems.Add("flavio.leans@gmail.com");
 
+            //passando com array
             ListViewItem item4 = new ListViewItem(new string[]
             { "Girlene", "98542-5949", "mp.girlene@hotmail.com" });
 
@@ -49,6 +50,12 @@ namespace Part010
             //lista.Items.RemoveAt(0);
 
 
+        }
+
+        private void lista_DoubleClick(object sender, EventArgs e)
+        {
+            MessageBox.Show(lista.SelectedItems[0].Text + "excluido com sucesso!");
+            lista.Items.Remove(lista.SelectedItems[0]);
         }
     }
 }
